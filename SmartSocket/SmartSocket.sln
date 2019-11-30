@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSocketServer", "SmartSocketServer\SmartSocketServer.csproj", "{35C1CEF8-6653-4616-AB26-408E24E9A248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSocketMongoDB", "SmartSocketMongoDB\SmartSocketMongoDB.csproj", "{EE7B8D1D-3D78-45E1-B9E7-F7E1814D3FF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSocketClient", "SmartSocketClient\SmartSocketClient.csproj", "{EA8F0610-AC57-4D91-AD76-AEDDE956A6E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSocketData", "SmartSocketData\SmartSocketData.csproj", "{7F99F2CB-D940-4824-83B6-1869A540AC97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C1CEF8-6653-4616-AB26-408E24E9A248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C1CEF8-6653-4616-AB26-408E24E9A248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C1CEF8-6653-4616-AB26-408E24E9A248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C1CEF8-6653-4616-AB26-408E24E9A248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7B8D1D-3D78-45E1-B9E7-F7E1814D3FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7B8D1D-3D78-45E1-B9E7-F7E1814D3FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7B8D1D-3D78-45E1-B9E7-F7E1814D3FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7B8D1D-3D78-45E1-B9E7-F7E1814D3FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA8F0610-AC57-4D91-AD76-AEDDE956A6E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8F0610-AC57-4D91-AD76-AEDDE956A6E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8F0610-AC57-4D91-AD76-AEDDE956A6E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8F0610-AC57-4D91-AD76-AEDDE956A6E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F99F2CB-D940-4824-83B6-1869A540AC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F99F2CB-D940-4824-83B6-1869A540AC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F99F2CB-D940-4824-83B6-1869A540AC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F99F2CB-D940-4824-83B6-1869A540AC97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4191A9EF-8B98-44D6-81E6-11FC44B9C24D}
+	EndGlobalSection
+EndGlobal
